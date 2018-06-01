@@ -29,7 +29,7 @@ class Solution {
         StringBuilder newString = new StringBuilder();
         int size = 2*numRows - 2;
 
-        // 逐行遍历，符合条件的就插入StringBuilder
+        // 逐行遍历，符合条件的字符插入StringBuilder
         for (int i = 0; i < numRows; i++) {
             for (int j = i; j < s.length(); j+=size) {
                 newString.append(s.charAt(j));
