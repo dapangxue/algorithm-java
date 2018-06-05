@@ -31,9 +31,5 @@ class Solution {
         }
         return total*symbol;
     }
-	public static void main(String[] args) {
-		Solution solution = new Solution();
-		System.out.println(solution.myAtoi("2147483646"));
-	}
 }
 ```
