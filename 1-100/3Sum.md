@@ -3,7 +3,7 @@
 需要先fix数组中的一个数为目标List的一个值，再检查剩余的数组中的数是否满足条件
 ## 示例代码
 ```java
-class solution {
+class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
         Arrays.sort(nums);
         int fix = 0, target = 0;
