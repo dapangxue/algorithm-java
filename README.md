@@ -3,6 +3,7 @@
 ## 题目
 1. [TwoSum](https://github.com/iswuxue/leetcode-java/blob/master/1-100/TwoSum.md)
 2. [addTwoNumbers](https://github.com/iswuxue/leetcode-java/blob/master/1-100/AddTwoNumbers.md)
+3. [LongestSubstringWithoutRepeatingCharacters](https://github.com/iswuxue/leetcode-java/blob/master/1-100/LongestSubstringWithoutRepeatingCharacters.md)
 5. [LongestPalindromicSubstring](https://github.com/iswuxue/leetcode-java/blob/master/1-100/LongestPalindromicSubstring.md)
 6. [ZigZagConversion](https://github.com/iswuxue/leetcode-java/blob/master/1-100/ZigZagConversion.md)
 7. [ReverseInteger](https://github.com/iswuxue/leetcode-java/blob/master/1-100/ReverseInteger.md)
