@@ -24,3 +24,4 @@
 22. [GenerateParentheses](https://github.com/iswuxue/leetcode-java/blob/master/1-100/GenerateParentheses.md)
 23. [MergekSortedLists](https://github.com/iswuxue/leetcode-java/blob/master/1-100/MergekSortedLists.md)
 24. [SwapNodesinPairs](https://github.com/iswuxue/leetcode-java/blob/master/1-100/SwapNodesinPairs.md)
+25. [Reverse Nodes in k-Group](https://github.com/iswuxue/leetcode-java/blob/master/1-100/ReverseNodesink-Group.md)
