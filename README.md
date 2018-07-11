@@ -25,3 +25,4 @@
 23. [Merge k Sorted Lists](https://github.com/iswuxue/leetcode-java/blob/master/1-100/MergekSortedLists.md)
 24. [Swap Nodes in Pairs](https://github.com/iswuxue/leetcode-java/blob/master/1-100/SwapNodesinPairs.md)
 25. [Reverse Nodes in k-Group](https://github.com/iswuxue/leetcode-java/blob/master/1-100/ReverseNodesink-Group.md)
+26. [Remove Duplicates from Sorted Array](https://github.com/iswuxue/leetcode-java/blob/master/1-100/RemoveDuplicatesfromSortedArray.md)
