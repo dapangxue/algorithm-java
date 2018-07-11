@@ -26,3 +26,4 @@
 24. [Swap Nodes in Pairs](https://github.com/iswuxue/leetcode-java/blob/master/1-100/SwapNodesinPairs.md)
 25. [Reverse Nodes in k-Group](https://github.com/iswuxue/leetcode-java/blob/master/1-100/ReverseNodesink-Group.md)
 26. [Remove Duplicates from Sorted Array](https://github.com/iswuxue/leetcode-java/blob/master/1-100/RemoveDuplicatesfromSortedArray.md)
+868. [Transpose Matrix](https://github.com/iswuxue/leetcode-java/blob/master/1-100/TransposeMatrix.md)
