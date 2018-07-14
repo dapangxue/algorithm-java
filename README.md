@@ -28,5 +28,6 @@
 26. [Remove Duplicates from Sorted Array](https://github.com/iswuxue/leetcode-java/blob/master/1-100/RemoveDuplicatesfromSortedArray.md)
 27. [Remove Element](https://github.com/iswuxue/leetcode-java/blob/master/1-100/RemoveElement.md)
 28. [Implement strStr()](https://github.com/iswuxue/leetcode-java/blob/master/1-100/ImplementstrStr().md)
+29. [Divide Two Integers](https://github.com/iswuxue/leetcode-java/blob/master/1-100/DivideTwoIntegers.md)
 868. [Transpose Matrix](https://github.com/iswuxue/leetcode-java/blob/master/800-900/TransposeMatrix.md)
 867. [Prime Palindrome](https://github.com/iswuxue/leetcode-java/blob/master/800-900/PrimePalindrome.md)
