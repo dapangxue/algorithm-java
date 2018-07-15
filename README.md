@@ -31,3 +31,5 @@
 29. [Divide Two Integers](https://github.com/iswuxue/leetcode-java/blob/master/1-100/DivideTwoIntegers.md)
 868. [Transpose Matrix](https://github.com/iswuxue/leetcode-java/blob/master/800-900/TransposeMatrix.md)
 867. [Prime Palindrome](https://github.com/iswuxue/leetcode-java/blob/master/800-900/PrimePalindrome.md)
+868. [Binary Gap](https://github.com/iswuxue/leetcode-java/blob/master/800-900/BinaryGap.md)
+869. [Reordered Power of 2](https://github.com/iswuxue/leetcode-java/blob/master/800-900/ReorderedPowerof2.md)
