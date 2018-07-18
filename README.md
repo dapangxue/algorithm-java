@@ -30,6 +30,7 @@
 28. [Implement strStr()](https://github.com/iswuxue/leetcode-java/blob/master/1-100/ImplementstrStr().md)
 29. [Divide Two Integers](https://github.com/iswuxue/leetcode-java/blob/master/1-100/DivideTwoIntegers.md)
 31. [Next Permutation](https://github.com/iswuxue/leetcode-java/blob/master/1-100/NextPermutation.md)
+33. [Search in Rotated Sorted Array](https://github.com/iswuxue/leetcode-java/blob/master/1-100/SearchinRotatedSortedArray.md)
 868. [Transpose Matrix](https://github.com/iswuxue/leetcode-java/blob/master/800-900/TransposeMatrix.md)
 867. [Prime Palindrome](https://github.com/iswuxue/leetcode-java/blob/master/800-900/PrimePalindrome.md)
 868. [Binary Gap](https://github.com/iswuxue/leetcode-java/blob/master/800-900/BinaryGap.md)
