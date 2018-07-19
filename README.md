@@ -17,7 +17,7 @@
 15. [3Sum](https://github.com/iswuxue/leetcode-java/blob/master/1-100/3Sum.md)
 16. [3 Sum Closest](https://github.com/iswuxue/leetcode-java/blob/master/1-100/3SumClosest.md)
 17. [Letter Combinations of a PhoneNumber](https://github.com/iswuxue/leetcode-java/blob/master/1-100/LetterCombinationsofAPhoneNumber.md)
-18. [4Sum](https://github.com/iswuxue/leetcode-java/blob/master/1-100/4Sum.md)
+18. [4 Sum](https://github.com/iswuxue/leetcode-java/blob/master/1-100/4Sum.md)
 19. [Remove Nth Node From EndofList](https://github.com/iswuxue/leetcode-java/blob/master/1-100/RemoveNthNodeFromEndofList.md)
 20. [Valid Parentheses](https://github.com/iswuxue/leetcode-java/blob/master/1-100/ValidParentheses.md)
 21. [Merge Two Sorted Lists](https://github.com/iswuxue/leetcode-java/blob/master/1-100/MergeTwoSortedLists.md)
