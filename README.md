@@ -39,3 +39,5 @@
 868. [Binary Gap](https://github.com/iswuxue/leetcode-java/blob/master/800-900/BinaryGap.md)
 869. [Reordered Power of 2](https://github.com/iswuxue/leetcode-java/blob/master/800-900/ReorderedPowerof2.md)
 870. [Advantage Shuffle](https://github.com/iswuxue/leetcode-java/blob/master/800-900/AdvantageShuffle.md)
+872. [Leaf-Similar Trees](https://github.com/iswuxue/leetcode-java/blob/master/800-900/Leaf-SimilarTrees.md)
+873. [Koko Eating Bananas](https://github.com/iswuxue/leetcode-java/blob/master/800-900/KokoEatingBananas.md)
