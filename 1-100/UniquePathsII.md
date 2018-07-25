@@ -1,6 +1,6 @@
 # Unique Paths II
 ## 思路
-本题和62题一样，只不过只要碰到障碍，就将后面的虚拟数组置0
+本题和62题[Unique Paths](https://github.com/iswuxue/leetcode-java/blob/master/1-100/UniquePaths.md)一样，只不过只要碰到障碍，就将后面的虚拟数组置0
 ## 示例代码
 ``` java
 public class Solution {
