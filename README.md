@@ -37,6 +37,7 @@
 59. [Spiral Matrix II](https://github.com/iswuxue/leetcode-java/blob/master/1-100/SpiralMatrixII.md)
 62. [Unique Paths](https://github.com/iswuxue/leetcode-java/blob/master/1-100/UniquePaths.md)
 63. [Unique Paths II](https://github.com/iswuxue/leetcode-java/blob/master/1-100/UniquePathsII.md)
+64. [Minimum Path Sum](https://github.com/iswuxue/leetcode-java/blob/master/1-100/MinimumPathSum.md)
 868. [Transpose Matrix](https://github.com/iswuxue/leetcode-java/blob/master/800-900/TransposeMatrix.md)
 867. [Prime Palindrome](https://github.com/iswuxue/leetcode-java/blob/master/800-900/PrimePalindrome.md)
 868. [Binary Gap](https://github.com/iswuxue/leetcode-java/blob/master/800-900/BinaryGap.md)
