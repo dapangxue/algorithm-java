@@ -38,6 +38,7 @@
 62. [Unique Paths](https://github.com/iswuxue/leetcode-java/blob/master/1-100/UniquePaths.md)
 63. [Unique Paths II](https://github.com/iswuxue/leetcode-java/blob/master/1-100/UniquePathsII.md)
 64. [Minimum Path Sum](https://github.com/iswuxue/leetcode-java/blob/master/1-100/MinimumPathSum.md)
+66. [Plus One](https://github.com/iswuxue/leetcode-java/blob/master/1-100/PlusOne.md)
 94. [Binary Tree InorderTraversal](https://github.com/iswuxue/leetcode-java/blob/master/1-100/BinaryTreeInorderTraversal.md)
 868. [Transpose Matrix](https://github.com/iswuxue/leetcode-java/blob/master/800-900/TransposeMatrix.md)
 867. [Prime Palindrome](https://github.com/iswuxue/leetcode-java/blob/master/800-900/PrimePalindrome.md)
@@ -46,3 +47,4 @@
 870. [Advantage Shuffle](https://github.com/iswuxue/leetcode-java/blob/master/800-900/AdvantageShuffle.md)
 872. [Leaf-Similar Trees](https://github.com/iswuxue/leetcode-java/blob/master/800-900/Leaf-SimilarTrees.md)
 873. [Koko Eating Bananas](https://github.com/iswuxue/leetcode-java/blob/master/800-900/KokoEatingBananas.md)
+876. [Middle of the LinkedList](https://github.com/iswuxue/leetcode-java/blob/master/800-900/MiddleoftheLinkedList.md)
