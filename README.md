@@ -33,6 +33,8 @@
 33. [Search in Rotated Sorted Array](https://github.com/iswuxue/leetcode-java/blob/master/1-100/SearchinRotatedSortedArray.md)
 35. [Search Insert Position](https://github.com/iswuxue/leetcode-java/blob/master/1-100/SearchInsertPosition.md)
 36. [Valid Sudoku](https://github.com/iswuxue/leetcode-java/blob/master/1-100/ValidSudoku.md)
+37. [Combination Sum](https://github.com/iswuxue/leetcode-java/blob/master/1-100/CombinationSum.md)
+38. [COmbination Sum II](https://github.com/iswuxue/leetcode-java/blob/master/1-100/CombinationSumII.md)
 55. [Jump Game](https://github.com/iswuxue/leetcode-java/blob/master/1-100/55.JumpGame.md)
 59. [Spiral Matrix II](https://github.com/iswuxue/leetcode-java/blob/master/1-100/SpiralMatrixII.md)
 62. [Unique Paths](https://github.com/iswuxue/leetcode-java/blob/master/1-100/UniquePaths.md)
