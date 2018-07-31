@@ -1,4 +1,5 @@
 # Search in Rotated Sorted Array
+tips: 旋转数组
 ## 示例代码
 ``` java
 class Solution {
