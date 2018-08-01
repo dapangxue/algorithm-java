@@ -34,7 +34,7 @@
 35. [Search Insert Position](https://github.com/iswuxue/leetcode-java/blob/master/1-100/SearchInsertPosition.md)
 36. [Valid Sudoku](https://github.com/iswuxue/leetcode-java/blob/master/1-100/ValidSudoku.md)
 37. [Combination Sum](https://github.com/iswuxue/leetcode-java/blob/master/1-100/CombinationSum.md)
-38. [COmbination Sum II](https://github.com/iswuxue/leetcode-java/blob/master/1-100/CombinationSumII.md)
+38. [Combination Sum II](https://github.com/iswuxue/leetcode-java/blob/master/1-100/CombinationSumII.md)
 43. [Multiply Strings](https://github.com/iswuxue/leetcode-java/blob/master/1-100/MultiplyStrings.md)
 46. [Permutations](https://github.com/iswuxue/leetcode-java/blob/master/1-100/Permutations.md)
 55. [Jump Game](https://github.com/iswuxue/leetcode-java/blob/master/1-100/55.JumpGame.md)
