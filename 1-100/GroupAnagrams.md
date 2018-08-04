@@ -1,5 +1,5 @@
 # Group Anagrams
-## 实力代码
+## 示例代码
 ``` java
 class Solution {
     public List<List<String>> groupAnagrams(String[] strs) {
