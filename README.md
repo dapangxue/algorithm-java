@@ -57,3 +57,5 @@
 872. [Leaf-Similar Trees](https://github.com/iswuxue/leetcode-java/blob/master/800-900/Leaf-SimilarTrees.md)
 873. [Koko Eating Bananas](https://github.com/iswuxue/leetcode-java/blob/master/800-900/KokoEatingBananas.md)
 876. [Middle of the LinkedList](https://github.com/iswuxue/leetcode-java/blob/master/800-900/MiddleoftheLinkedList.md)
+887. [Projection Area of 3D Shapes](https://github.com/iswuxue/leetcode-java/blob/master/800-900/ProjectionAreaof3DShapes.md)
+885. [Boats to Save People](https://github.com/iswuxue/leetcode-java/blob/master/800-900/BoatstoSavePeople.md)
