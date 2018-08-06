@@ -39,6 +39,8 @@
 46. [Permutations](https://github.com/iswuxue/leetcode-java/blob/master/1-100/Permutations.md)
 49. [Group Anagrams](https://github.com/iswuxue/leetcode-java/blob/master/1-100/GroupAnagrams.md)
 50. [Pow(x,n)](https://github.com/iswuxue/leetcode-java/blob/master/1-100/Pow(x%2C%20n).md)
+53. [Maximum Subarray](https://github.com/iswuxue/leetcode-java/blob/master/1-100/Maximumubarray.md)
+54. [Spiral Matrix](https://github.com/iswuxue/leetcode-java/blob/master/1-100/SpiralMatrix.md)
 55. [Jump Game](https://github.com/iswuxue/leetcode-java/blob/master/1-100/55.JumpGame.md)
 59. [Spiral Matrix II](https://github.com/iswuxue/leetcode-java/blob/master/1-100/SpiralMatrixII.md)
 62. [Unique Paths](https://github.com/iswuxue/leetcode-java/blob/master/1-100/UniquePaths.md)
