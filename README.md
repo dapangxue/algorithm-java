@@ -42,6 +42,7 @@
 53. [Maximum Subarray](https://github.com/iswuxue/leetcode-java/blob/master/1-100/Maximumubarray.md)
 54. [Spiral Matrix](https://github.com/iswuxue/leetcode-java/blob/master/1-100/SpiralMatrix.md)
 55. [Jump Game](https://github.com/iswuxue/leetcode-java/blob/master/1-100/55.JumpGame.md)
+56. [Merge Intervals](https://github.com/iswuxue/leetcode-java/blob/master/1-100/MergeIntervals.md)
 59. [Spiral Matrix II](https://github.com/iswuxue/leetcode-java/blob/master/1-100/SpiralMatrixII.md)
 62. [Unique Paths](https://github.com/iswuxue/leetcode-java/blob/master/1-100/UniquePaths.md)
 63. [Unique Paths II](https://github.com/iswuxue/leetcode-java/blob/master/1-100/UniquePathsII.md)
