@@ -1,5 +1,5 @@
 # Add Binary
-二进制相加算法
+tip:二进制相加算法
 ## 示例代码
 ``` java
 class Solution {
