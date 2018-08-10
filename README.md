@@ -51,6 +51,8 @@
 64. [Minimum Path Sum](https://github.com/iswuxue/leetcode-java/blob/master/1-100/MinimumPathSum.md)
 66. [Plus One](https://github.com/iswuxue/leetcode-java/blob/master/1-100/PlusOne.md)
 67. [Add Binary](https://github.com/iswuxue/leetcode-java/blob/master/1-100/AddBinary.md)
+69. [Sqrt(x)](https://github.com/iswuxue/leetcode-java/blob/master/1-100/Sqrt(x).md)
+70. [Climbing Stairs](https://github.com/iswuxue/leetcode-java/blob/master/1-100/ClimbingStairs.md)
 94. [Binary Tree InorderTraversal](https://github.com/iswuxue/leetcode-java/blob/master/1-100/BinaryTreeInorderTraversal.md)
 386. [Lexicographical Numbers](https://github.com/iswuxue/leetcode-java/blob/master/300-400/LexicographicalNumbers.md)
 387. [First Unique Character in a String](https://github.com/iswuxue/leetcode-java/blob/master/300-400/FirstUniqueCharacterinaString.md)
