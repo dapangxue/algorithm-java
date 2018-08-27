@@ -82,3 +82,4 @@
 884. [Uncommon Words from Two Sentences](https://github.com/iswuxue/leetcode-java/blob/master/800-900/UncommonWordsfromTwoSentences.md)
 888. [Fair Candy Swap](https://github.com/iswuxue/leetcode-java/blob/master/800-900/888.FairCandySwap.md)
 892. [Surface Area of 3D Shapes](https://github.com/iswuxue/leetcode-java/blob/master/800-900/892.SurfaceAreaof3DShapes.md)
+893. [Groups of Special-Equivalent Strings](https://github.com/iswuxue/leetcode-java/blob/master/800-900/893.GroupsofSpecial-EquivalentStrings.md)
