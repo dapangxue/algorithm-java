@@ -65,6 +65,7 @@
 82. [Remove Duplicates from Sorted List II](https://github.com/iswuxue/leetcode-java/blob/master/1-100/82.RemoveDuplicatesfromSortedListII.md)
 83. [Remove Duplicates from Sorted List](https://github.com/iswuxue/leetcode-java/blob/master/1-100/83.RemoveDuplicatesfromSortedList.md)
 86. [Partition List](https://github.com/iswuxue/leetcode-java/blob/master/1-100/86.PartitionList.md)
+88. [Merge Sorted Array](https://github.com/iswuxue/leetcode-java/blob/master/1-100/88.MergeSortedArray.md)
 94. [Binary Tree InorderTraversal](https://github.com/iswuxue/leetcode-java/blob/master/1-100/BinaryTreeInorderTraversal.md)
 386. [Lexicographical Numbers](https://github.com/iswuxue/leetcode-java/blob/master/300-400/LexicographicalNumbers.md)
 387. [First Unique Character in a String](https://github.com/iswuxue/leetcode-java/blob/master/300-400/FirstUniqueCharacterinaString.md)
