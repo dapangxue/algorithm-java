@@ -58,7 +58,7 @@
 74. [Search a 2D Matrix](https://github.com/iswuxue/leetcode-java/blob/master/1-100/Sercha2DMatrix.md)
 75. [Sort Colors](https://github.com/iswuxue/leetcode-java/blob/master/1-100/SortColors.md)
 77. [Combinations](https://github.com/iswuxue/leetcode-java/blob/master/1-100/Combinations.md)
-78. [78_Subsets](https://github.com/iswuxue/leetcode-java/blob/master/1-100/78_Subsets.md)
+78. [Subsets](https://github.com/iswuxue/leetcode-java/blob/master/1-100/78_Subsets.md)
 79. [Word Search](https://github.com/iswuxue/leetcode-java/blob/master/1-100/79_WordSearch.md)
 80. [Remove Duplicates from Sorted Array II](https://github.com/iswuxue/leetcode-java/blob/master/1-100/80.RemoveDuplicatesfromSortedArrayII.md)
 81. [Search in Rotated Sorted Array II](https://github.com/iswuxue/leetcode-java/blob/master/1-100/81.SearchinRotatedSortedArrayII.md)
@@ -68,6 +68,8 @@
 88. [Merge Sorted Array](https://github.com/iswuxue/leetcode-java/blob/master/1-100/88.MergeSortedArray.md)
 89. [Gray Code](https://github.com/iswuxue/leetcode-java/blob/master/1-100/89.GrayCode.md)
 90. [Subsets II](https://github.com/iswuxue/leetcode-java/blob/master/1-100/90.SubsetsII.md)
+91. [Decode
+Ways](https://github.com/iswuxue/leetcode-java/blob/master/1-100/91.DecodeWays.md)
 94. [Binary Tree InorderTraversal](https://github.com/iswuxue/leetcode-java/blob/master/1-100/BinaryTreeInorderTraversal.md)
 386. [Lexicographical Numbers](https://github.com/iswuxue/leetcode-java/blob/master/300-400/LexicographicalNumbers.md)
 387. [First Unique Character in a String](https://github.com/iswuxue/leetcode-java/blob/master/300-400/FirstUniqueCharacterinaString.md)
