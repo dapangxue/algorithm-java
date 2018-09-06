@@ -73,6 +73,7 @@ Ways](https://github.com/iswuxue/leetcode-java/blob/master/1-100/91.DecodeWays.m
 92. [Reverse LinkedList II](https://github.com/iswuxue/leetcode-java/blob/master/1-100/92.ReverseLinkedListII.md)
 93. [Restore IP Address](https://github.com/iswuxue/leetcode-java/blob/master/1-100/93.RestoreIPAddress.md)
 94. [Binary Tree InorderTraversal](https://github.com/iswuxue/leetcode-java/blob/master/1-100/BinaryTreeInorderTraversal.md)
+95. [Unique Binary Search Trees II](https://github.com/iswuxue/leetcode-java/blob/master/1-100/95.UniqueBinarySearchTreesII.md)
 96. [Unique Binary Search Trees](https://github.com/iswuxue/leetcode-java/blob/master/1-100/96.UniqueBinarySearchTrees.md)
 98. [Validate Binary Search Tree](https://github.com/iswuxue/leetcode-java/blob/master/1-100/98.ValidateBinarySearchTree.md)
 386. [Lexicographical Numbers](https://github.com/iswuxue/leetcode-java/blob/master/300-400/LexicographicalNumbers.md)
