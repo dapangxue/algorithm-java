@@ -46,6 +46,7 @@
 58. [Length of Last Word](https://github.com/iswuxue/leetcode-java/blob/master/1-100/LengthofLastWord.md)
 59. [Spiral Matrix II](https://github.com/iswuxue/leetcode-java/blob/master/1-100/SpiralMatrixII.md)
 60. [Permutation Sequence](https://github.com/iswuxue/leetcode-java/blob/master/1-100/PermutationSequence.md)
+61. [Rotate List](https://github.com/iswuxue/leetcode-java/blob/master/1-100/61.RotateList.md)
 62. [Unique Paths](https://github.com/iswuxue/leetcode-java/blob/master/1-100/UniquePaths.md)
 63. [Unique Paths II](https://github.com/iswuxue/leetcode-java/blob/master/1-100/UniquePathsII.md)
 64. [Minimum Path Sum](https://github.com/iswuxue/leetcode-java/blob/master/1-100/MinimumPathSum.md)
