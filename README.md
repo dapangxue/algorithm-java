@@ -82,6 +82,7 @@ Ways](https://github.com/iswuxue/leetcode-java/blob/master/1-100/91.DecodeWays.m
 102. [Binary Tree Level Order Traversal](https://github.com/iswuxue/leetcode-java/blob/master/101-200/102.BinaryTreeLevelOrderTraversal.md)
 103. [Binary Tree Zigzag Level Order Traversal](https://github.com/iswuxue/leetcode-java/blob/master/101-200/103.BinaryTreeZigzagLevelOrderTraversal.md)
 104. [Maximum Depth of Binary Tree](https://github.com/iswuxue/leetcode-java/blob/master/101-200/104.MaximumDepthofBinaryTree.md)
+105. [Construct Binary Tree from Preorder and Inorder Traversal](https://github.com/iswuxue/leetcode-java/blob/master/101-200/105.ConstructBinaryTreefromPreorderandInorderTraversal.md)
 386. [Lexicographical Numbers](https://github.com/iswuxue/leetcode-java/blob/master/300-400/LexicographicalNumbers.md)
 387. [First Unique Character in a String](https://github.com/iswuxue/leetcode-java/blob/master/300-400/FirstUniqueCharacterinaString.md)
 388. [Longest Absolute File Path](https://github.com/iswuxue/leetcode-java/blob/master/300-400/LongestAbsoluteFilePath.md)
