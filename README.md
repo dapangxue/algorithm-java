@@ -101,3 +101,4 @@ Ways](https://github.com/iswuxue/leetcode-java/blob/master/1-100/91.DecodeWays.m
 892. [Surface Area of 3D Shapes](https://github.com/iswuxue/leetcode-java/blob/master/800-900/892.SurfaceAreaof3DShapes.md)
 893. [Groups of Special-Equivalent Strings](https://github.com/iswuxue/leetcode-java/blob/master/800-900/893.GroupsofSpecial-EquivalentStrings.md)
 896. [Monotonic Array](https://github.com/iswuxue/leetcode-java/blob/master/800-900/896.MonotonicArray.md)
+905. [Sort Array By Parity](https://github.com/iswuxue/leetcode-java/blob/master/901-1000/905.SortArrayByParity.md)
