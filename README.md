@@ -107,3 +107,4 @@ Ways](https://github.com/iswuxue/leetcode-java/blob/master/1-100/91.DecodeWays.m
 893. [Groups of Special-Equivalent Strings](https://github.com/iswuxue/leetcode-java/blob/master/800-900/893.GroupsofSpecial-EquivalentStrings.md)
 896. [Monotonic Array](https://github.com/iswuxue/leetcode-java/blob/master/800-900/896.MonotonicArray.md)
 905. [Sort Array By Parity](https://github.com/iswuxue/leetcode-java/blob/master/901-1000/905.SortArrayByParity.md)
+906. [Smallest Range I](901-1000/908.SmallestRangeI.md)
