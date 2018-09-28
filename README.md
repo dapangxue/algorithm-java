@@ -90,6 +90,7 @@ Ways](https://github.com/iswuxue/leetcode-java/blob/master/1-100/91.DecodeWays.m
 111. [Minimum Depth of Binary Tree](101-200/111.MinimumDepthofBinaryTree.md)
 112. [Path Sum](101-200/112.PathSum.md)
 113. [Path Sum II](101-200/113.PathSumII.md)
+116. [Populating Next Right Pointersin Each Node](101-200/116.PopulatingNextRightPointersinEachNode.md)
 114. [Flatten Binary Tree to LinkedList](101-200/114.FlattenBinaryTreetoLinkedList.md)
 206. [Reverse Linked List](https://github.com/iswuxue/leetcode-java/blob/master/201-300/206.ReverseLinkedList.md)
 386. [Lexicographical Numbers](https://github.com/iswuxue/leetcode-java/blob/master/300-400/LexicographicalNumbers.md)
