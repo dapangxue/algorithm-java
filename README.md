@@ -95,6 +95,7 @@ Ways](https://github.com/iswuxue/leetcode-java/blob/master/1-100/91.DecodeWays.m
 117. [Populating Next Right Pointers in Each Node II](101-200/117.PopulatingNextRightPointersinEachNodeII.md)
 118. [Pascal's Triangle](101-200/118.Pascal'sTriangle.md)
 119. [Pascal's Triangle II](101-200/119.Pascal'sTriangleII.md)
+120. [Triangle](101-200/120.Triangle.md)
 122. [Best Time to Buy and Sell Stock II](101-200/122.BestTimetoBuyandSellStockII.md)
 125. [Valid Palindrome](101-200/125.ValidPalindrome.md)
 143. [Reorder List](101-200/143.ReorderList.md)
