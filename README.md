@@ -99,6 +99,7 @@ Ways](https://github.com/iswuxue/leetcode-java/blob/master/1-100/91.DecodeWays.m
 122. [Best Time to Buy and Sell Stock II](101-200/122.BestTimetoBuyandSellStockII.md)
 125. [Valid Palindrome](101-200/125.ValidPalindrome.md)
 127. [Word Ladder](101-200/127.WordLadder.md)
+129. [Sum Root to Leaf Numbers](101-200/129.SumRoottoLeafNumbers.md)
 143. [Reorder List](101-200/143.ReorderList.md)
 206. [Reverse Linked List](https://github.com/iswuxue/leetcode-java/blob/master/201-300/206.ReverseLinkedList.md)
 386. [Lexicographical Numbers](https://github.com/iswuxue/leetcode-java/blob/master/300-400/LexicographicalNumbers.md)
