@@ -125,3 +125,5 @@ Ways](https://github.com/iswuxue/leetcode-java/blob/master/1-100/91.DecodeWays.m
 906. [Smallest Range I](901-1000/908.SmallestRangeI.md)
 917. [Reverse Only Letters](901-1000/917.ReverseOnlyLetters.md)
 918. [Maximum Sum Circular Subarray](901-1000/918.MaximumSumCircularSubarray.md)
+921. [Minimum Add to Make Parentheses Valid](901-1000/921.MinimumAddtoMakeParenthesesValid.md)
+922. [Sort Array By Parity II](901-1000/922.SortArrayByParityII.md)
