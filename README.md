@@ -105,11 +105,7 @@ Ways](https://github.com/iswuxue/leetcode-java/blob/master/1-100/91.DecodeWays.m
 134. [Gas Station](101-200/134.GasStation.md)
 136. [136. Single Number](101-200/136.SingleNumber.md)
 137. [Single Number II](101-200/137.SingleNumberII.md)
-<<<<<<< HEAD
 139. [139. Word Break](101-200/139.WordBreak.md)
-=======
-138. [Copy List with Random Pointer](101-200\138.CopyListwithRandomPointer.md)
->>>>>>> 688e6f6de057b527418254fe46ffe67604ac9492
 143. [Reorder List](101-200/143.ReorderList.md)
 206. [Reverse Linked List](https://github.com/iswuxue/leetcode-java/blob/master/201-300/206.ReverseLinkedList.md)
 386. [Lexicographical Numbers](https://github.com/iswuxue/leetcode-java/blob/master/300-400/LexicographicalNumbers.md)
@@ -136,3 +132,4 @@ Ways](https://github.com/iswuxue/leetcode-java/blob/master/1-100/91.DecodeWays.m
 918. [Maximum Sum Circular Subarray](901-1000/918.MaximumSumCircularSubarray.md)
 921. [Minimum Add to Make Parentheses Valid](901-1000/921.MinimumAddtoMakeParenthesesValid.md)
 922. [Sort Array By Parity II](901-1000/922.SortArrayByParityII.md)
+925. [925. Long Pressed Name](901-1000/925.LongPressedName.md)
