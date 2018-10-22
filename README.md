@@ -106,6 +106,7 @@ Ways](https://github.com/iswuxue/leetcode-java/blob/master/1-100/91.DecodeWays.m
 136. [136. Single Number](101-200/136.SingleNumber.md)
 137. [Single Number II](101-200/137.SingleNumberII.md)
 139. [139. Word Break](101-200/139.WordBreak.md)
+141. [Linked List Cycle](101-200/141.LinkedListCycle.md)
 143. [Reorder List](101-200/143.ReorderList.md)
 206. [Reverse Linked List](https://github.com/iswuxue/leetcode-java/blob/master/201-300/206.ReverseLinkedList.md)
 386. [Lexicographical Numbers](https://github.com/iswuxue/leetcode-java/blob/master/300-400/LexicographicalNumbers.md)
