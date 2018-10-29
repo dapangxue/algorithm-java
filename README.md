@@ -113,6 +113,7 @@ Ways](https://github.com/iswuxue/leetcode-java/blob/master/1-100/91.DecodeWays.m
 147. [Insertion Sort List](101-200/147.InsertionSortList.md)
 148. [148. Sort List](101-200/148.SortList.md)
 151. [151. Reverse Words in a String](101-200/151.ReverseWordsinaString.md)
+152. [152. Maximum Product Subarray](101-200/152.MaximumProductSubarray.md)
 206. [Reverse Linked List](https://github.com/iswuxue/leetcode-java/blob/master/201-300/206.ReverseLinkedList.md)
 386. [Lexicographical Numbers](https://github.com/iswuxue/leetcode-java/blob/master/300-400/LexicographicalNumbers.md)
 387. [First Unique Character in a String](https://github.com/iswuxue/leetcode-java/blob/master/300-400/FirstUniqueCharacterinaString.md)
