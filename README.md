@@ -116,6 +116,7 @@ Ways](https://github.com/iswuxue/leetcode-java/blob/master/1-100/91.DecodeWays.m
 152. [152. Maximum Product Subarray](101-200/152.MaximumProductSubarray.md)
 153. [153. Find Minimum in Rotated Sorted Array](101-200/153.FindMinimuminRotatedSortedArray.md)
 155. [155.min-stack](101-200/155.min-stack.md)
+160. [160. Intersection of Two Linked Lists](101-200/160.IntersectionofTwoLinkedLists.md)
 206. [Reverse Linked List](https://github.com/iswuxue/leetcode-java/blob/master/201-300/206.ReverseLinkedList.md)
 386. [Lexicographical Numbers](https://github.com/iswuxue/leetcode-java/blob/master/300-400/LexicographicalNumbers.md)
 387. [First Unique Character in a String](https://github.com/iswuxue/leetcode-java/blob/master/300-400/FirstUniqueCharacterinaString.md)
