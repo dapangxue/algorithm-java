@@ -118,6 +118,7 @@ Ways](https://github.com/iswuxue/leetcode-java/blob/master/1-100/91.DecodeWays.m
 155. [155.min-stack](101-200/155.min-stack.md)
 160. [160. Intersection of Two Linked Lists](101-200/160.IntersectionofTwoLinkedLists.md)
 162. [162. Find Peak Element](101-200/162.FindPeakElement.md)
+167. [167. Two Sum II - Input array is sorted](101-200/167.TwoSumII-Inputarrayissorted.md)
 206. [Reverse Linked List](https://github.com/iswuxue/leetcode-java/blob/master/201-300/206.ReverseLinkedList.md)
 386. [Lexicographical Numbers](https://github.com/iswuxue/leetcode-java/blob/master/300-400/LexicographicalNumbers.md)
 387. [First Unique Character in a String](https://github.com/iswuxue/leetcode-java/blob/master/300-400/FirstUniqueCharacterinaString.md)
