@@ -123,6 +123,7 @@ Ways](https://github.com/iswuxue/leetcode-java/blob/master/1-100/91.DecodeWays.m
 169. [Majority Element](101-200/169.MajorityElement.md)
 172. [172. Factorial Trailing Zeroes](101-200/172.FactorialTrailingZeroes.md)
 176. [176. Second Highest Salary](101-200/176.SecondHighestSalary.md)
+179. [179. Largest Number](101-200/179.LargestNumber.md)
 206. [Reverse Linked List](https://github.com/iswuxue/leetcode-java/blob/master/201-300/206.ReverseLinkedList.md)
 386. [Lexicographical Numbers](https://github.com/iswuxue/leetcode-java/blob/master/300-400/LexicographicalNumbers.md)
 387. [First Unique Character in a String](https://github.com/iswuxue/leetcode-java/blob/master/300-400/FirstUniqueCharacterinaString.md)
