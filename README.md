@@ -129,6 +129,7 @@ Ways](https://github.com/iswuxue/leetcode-java/blob/master/1-100/91.DecodeWays.m
 203. [203. Remove Linked List Elements](201-300/203.RemoveLinkedListElements.md)
 204. [204. Count Primes](201-300/204.CountPrimes.md)
 206. [Reverse Linked List](https://github.com/iswuxue/leetcode-java/blob/master/201-300/206.ReverseLinkedList.md)
+217. [217. Contains Duplicate](201-300/217.ContainsDuplicate.md)
 386. [Lexicographical Numbers](https://github.com/iswuxue/leetcode-java/blob/master/300-400/LexicographicalNumbers.md)
 387. [First Unique Character in a String](https://github.com/iswuxue/leetcode-java/blob/master/300-400/FirstUniqueCharacterinaString.md)
 388. [Longest Absolute File Path](https://github.com/iswuxue/leetcode-java/blob/master/300-400/LongestAbsoluteFilePath.md)
