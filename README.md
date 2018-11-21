@@ -131,6 +131,7 @@ Ways](https://github.com/iswuxue/leetcode-java/blob/master/1-100/91.DecodeWays.m
 206. [Reverse Linked List](201-300/206.ReverseLinkedList.md)
 209. [209. Minimum Size Subarray Sum](201-300/209.MinimumSizeSubarraySum.md)
 217. [217. Contains Duplicate](201-300/217.ContainsDuplicate.md)
+303. [303. Range Sum Query - Immutable](300-400/303.RangeSumQuery-Immutable.md)
 386. [Lexicographical Numbers](300-400/LexicographicalNumbers.md)
 387. [First Unique Character in a String](300-400/FirstUniqueCharacterinaString.md)
 388. [Longest Absolute File Path](300-400/LongestAbsoluteFilePath.md)
