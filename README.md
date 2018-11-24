@@ -134,6 +134,7 @@ Ways](https://github.com/iswuxue/leetcode-java/blob/master/1-100/91.DecodeWays.m
 303. [303. Range Sum Query - Immutable](300-400/303.RangeSumQuery-Immutable.md)
 304. [304. Range Sum Query 2D - Immutable](300-400/304.RangeSumQuery2D-Immutable.md)
 306. [306. Additive Number](300-400/306.AdditiveNumber.md)
+307. [307. Range Sum Query - Mutable](300-400/307.RangeSumQuery-Mutable.md)
 386. [Lexicographical Numbers](300-400/LexicographicalNumbers.md)
 387. [First Unique Character in a String](300-400/FirstUniqueCharacterinaString.md)
 388. [Longest Absolute File Path](300-400/LongestAbsoluteFilePath.md)
