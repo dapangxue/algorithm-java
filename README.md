@@ -164,3 +164,4 @@ Ways](https://github.com/iswuxue/leetcode-java/blob/master/1-100/91.DecodeWays.m
 937. [937. Reorder Log Files](901-1000/937.ReorderLogFiles.md)
 941. [Valid Mountain Array](901-1000/941.ValidMountainArray.md)
 944. [944. Delete Columns to Make Sorted](901-1000/944.DeleteColumnstoMakeSorted.md)
+945. [945. Minimum Increment to Make Array Unique](901-1000/945.MinimumIncrementtoMakeArrayUnique.md)
