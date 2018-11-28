@@ -136,6 +136,7 @@ Ways](https://github.com/iswuxue/leetcode-java/blob/master/1-100/91.DecodeWays.m
 306. [306. Additive Number](300-400/306.AdditiveNumber.md)
 307. [307. Range Sum Query - Mutable](300-400/307.RangeSumQuery-Mutable.md)
 309. [309. Best Time to Buy and Sell Stock with Cooldown](300-400/309.BestTimetoBuyandSellStockwithCooldown.md)
+318. [318. Maximum Product of Word Lengths](300-400/318.MaximumProductofWordLengths.md)
 386. [Lexicographical Numbers](300-400/LexicographicalNumbers.md)
 387. [First Unique Character in a String](300-400/FirstUniqueCharacterinaString.md)
 388. [Longest Absolute File Path](300-400/LongestAbsoluteFilePath.md)
