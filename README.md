@@ -138,6 +138,7 @@ Ways](https://github.com/iswuxue/leetcode-java/blob/master/1-100/91.DecodeWays.m
 309. [309. Best Time to Buy and Sell Stock with Cooldown](300-400/309.BestTimetoBuyandSellStockwithCooldown.md)
 318. [318. Maximum Product of Word Lengths](300-400/318.MaximumProductofWordLengths.md)
 319. [319. Bulb Switcher](300-400/319.BulbSwitcher.md)
+372. [372. Super Pow](300-400/372.SuperPow.md)
 386. [Lexicographical Numbers](300-400/LexicographicalNumbers.md)
 387. [First Unique Character in a String](300-400/FirstUniqueCharacterinaString.md)
 388. [Longest Absolute File Path](300-400/LongestAbsoluteFilePath.md)
