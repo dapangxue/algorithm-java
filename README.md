@@ -143,6 +143,7 @@ Ways](https://github.com/iswuxue/leetcode-java/blob/master/1-100/91.DecodeWays.m
 387. [First Unique Character in a String](300-400/FirstUniqueCharacterinaString.md)
 388. [Longest Absolute File Path](300-400/LongestAbsoluteFilePath.md)
 397. [397. Integer Replacement](300-400/397.IntegerReplacement.md)
+401. [401. Binary Watch](401-500/401.BinaryWatch.md)
 868. [Transpose Matrix](800-900/TransposeMatrix.md)
 867. [Prime Palindrome](800-900/PrimePalindrome.md)
 868. [Binary Gap](https://github.com/iswuxue/leetcode-java/blob/master/800-900/BinaryGap.md)
