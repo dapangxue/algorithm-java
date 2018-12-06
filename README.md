@@ -146,6 +146,7 @@ Ways](https://github.com/iswuxue/leetcode-java/blob/master/1-100/91.DecodeWays.m
 401. [401. Binary Watch](401-500/401.BinaryWatch.md)
 404. [404. Sum of Left Leaves](401-500/404SumofLeftLeaves.md)
 405. [405. Convert a Number to Hexadecimal](401-500/405.ConvertaNumbertoHexadecimal.md)
+406. [406. Queue Reconstruction by Height](401-500/406.QueueReconstructionbyHeight.md)
 868. [Transpose Matrix](800-900/TransposeMatrix.md)
 867. [Prime Palindrome](800-900/PrimePalindrome.md)
 868. [Binary Gap](https://github.com/iswuxue/leetcode-java/blob/master/800-900/BinaryGap.md)
