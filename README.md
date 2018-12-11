@@ -150,6 +150,7 @@ Ways](https://github.com/iswuxue/leetcode-java/blob/master/1-100/91.DecodeWays.m
 409. [409. Longest Palindrome](401-500/409.LongestPalindrome.md)
 412. [412. Fizz Buzz](401-500/412.FizzBuzz.md)
 413. [413. Arithmetic Slices](401-500/413.ArithmeticSlices.md)
+414. [414. Third Maximum Number](401-500/414.ThirdMaximumNumber.md)
 868. [Transpose Matrix](800-900/TransposeMatrix.md)
 867. [Prime Palindrome](800-900/PrimePalindrome.md)
 868. [Binary Gap](https://github.com/iswuxue/leetcode-java/blob/master/800-900/BinaryGap.md)
