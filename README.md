@@ -153,6 +153,7 @@ Ways](https://github.com/iswuxue/leetcode-java/blob/master/1-100/91.DecodeWays.m
 414. [414. Third Maximum Number](401-500/414.ThirdMaximumNumber.md)
 415. [415. Add Strings](401-500/415.AddStrings.md)
 419. [419. Battleships in a Board](401-500/419.BattleshipsinaBoard.md)
+423. [423. Reconstruct Original Digits from English](401-500/423.ReconstructOriginalDigitsfromEnglish.md)
 868. [Transpose Matrix](800-900/TransposeMatrix.md)
 867. [Prime Palindrome](800-900/PrimePalindrome.md)
 868. [Binary Gap](https://github.com/iswuxue/leetcode-java/blob/master/800-900/BinaryGap.md)
