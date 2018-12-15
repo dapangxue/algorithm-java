@@ -142,6 +142,7 @@ Ways](https://github.com/iswuxue/leetcode-java/blob/master/1-100/91.DecodeWays.m
 386. [Lexicographical Numbers](300-400/LexicographicalNumbers.md)
 387. [First Unique Character in a String](300-400/FirstUniqueCharacterinaString.md)
 388. [Longest Absolute File Path](300-400/LongestAbsoluteFilePath.md)
+395. [395. Longest Substring with At Least K Repeating ](300-400/395.LongestSubstringwithAtLeastKRepeating .md)
 397. [397. Integer Replacement](300-400/397.IntegerReplacement.md)
 401. [401. Binary Watch](401-500/401.BinaryWatch.md)
 404. [404. Sum of Left Leaves](401-500/404SumofLeftLeaves.md)
