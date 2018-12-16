@@ -184,3 +184,4 @@ Ways](https://github.com/iswuxue/leetcode-java/blob/master/1-100/91.DecodeWays.m
 945. [945. Minimum Increment to Make Array Unique](901-1000/945.MinimumIncrementtoMakeArrayUnique.md)
 946. [946. Validate Stack Sequences](901-1000/946.ValidateStackSequences.md)
 953. [953. Verifying an Alien Dictionary](901-1000/953.VerifyinganAlienDictionary.md)
+958. [958. Check Completeness of a Binary Tree](901-1000/958.CheckCompletenessofaBinaryTree.md)
