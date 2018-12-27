@@ -18,7 +18,7 @@
 18. [4 Sum](https://github.com/iswuxue/leetcode-java/blob/master/1-100/4Sum.md)
 19. [Remove Nth Node From EndofList](https://github.com/iswuxue/leetcode-java/blob/master/1-100/RemoveNthNodeFromEndofList.md)
 20. [Valid Parentheses](https://github.com/iswuxue/leetcode-java/blob/master/1-100/ValidParentheses.md)
-21. [Merge Two Sorted Lists](https://github.com/iswuxue/leetcode-java/blob/master/1-100/MergeTwoSortedLists.md)
+21. [Merge Two Sorted Lists](1-100/MergeTwoSortedLists.md)
 22. [Generate Parentheses](https://github.com/iswuxue/leetcode-java/blob/master/1-100/GenerateParentheses.md)
 23. [Merge k Sorted Lists](https://github.com/iswuxue/leetcode-java/blob/master/1-100/MergekSortedLists.md)
 24. [Swap Nodes in Pairs](https://github.com/iswuxue/leetcode-java/blob/master/1-100/SwapNodesinPairs.md)
