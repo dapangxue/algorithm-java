@@ -7,3 +7,5 @@
 14. [链表中倒数第k个结点](new-coder/SwordRefersToOffer/14.FindKthToTail.md)
 15. [反转链表](new-coder/SwordRefersToOffer/15.ReverseList.md)
 16. [合并两个排序的链表](new-coder/SwordRefersToOffer/16.Merge.md)
+17. [树的子结构](new-coder/SwordRefersToOffer/17.HasSubtree.md)
+18. [二叉树的镜像](new-coder/SwordRefersToOffer/18.Mirror.md)
