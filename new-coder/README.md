@@ -1,4 +1,6 @@
 ## 剑指offer
+1. [二维数组中的查找](new-coder/SwordRefersToOffer/1.Find.md)
+2. [替换空格](new-coder/SwordRefersToOffer/2.replaceSpace.md)
 9. [变态跳台阶](new-coder/SwordRefersToOffer/9.JumpFloorII.md)
 10. [矩形覆盖](new-coder/SwordRefersToOffer/10.RectangularCover.md)
 11. [二进制中1的个数](new-coder/SwordRefersToOffer/11.NumberOf1.md)
