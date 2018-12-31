@@ -3,6 +3,7 @@
 2. [替换空格](new-coder/SwordRefersToOffer/2.replaceSpace.md)
 3. [从尾到头打印链表](new-coder/SwordRefersToOffer/3.PrintListFromTailToHead.md)
 4. [重建二叉树](new-coder/SwordRefersToOffer/4.ReConstructBinaryTree.md)
+5. [用两个栈实现队列](new-coder/SwordRefersToOffer/5.Queue.md)
 9. [变态跳台阶](new-coder/SwordRefersToOffer/9.JumpFloorII.md)
 10. [矩形覆盖](new-coder/SwordRefersToOffer/10.RectangularCover.md)
 11. [二进制中1的个数](new-coder/SwordRefersToOffer/11.NumberOf1.md)
