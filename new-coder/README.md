@@ -14,3 +14,4 @@
 16. [合并两个排序的链表](new-coder/SwordRefersToOffer/16.Merge.md)
 17. [树的子结构](new-coder/SwordRefersToOffer/17.HasSubtree.md)
 18. [二叉树的镜像](new-coder/SwordRefersToOffer/18.Mirror.md)
+21. [栈的压入、弹出序列](new-coder/SwordRefersToOffer/21.IsPopOrder.md)
