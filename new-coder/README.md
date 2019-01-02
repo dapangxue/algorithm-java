@@ -15,3 +15,5 @@
 17. [树的子结构](new-coder/SwordRefersToOffer/17.HasSubtree.md)
 18. [二叉树的镜像](new-coder/SwordRefersToOffer/18.Mirror.md)
 21. [栈的压入、弹出序列](new-coder/SwordRefersToOffer/21.IsPopOrder.md)
+22. [从上往下打印二叉树](new-coder/SwordRefersToOffer/22.PrintFromTopToBottom.md)
+23. [二叉搜索树的后序遍历序列](new-coder/SwordRefersToOffer/23.VerifySquenceOfBST.md)
