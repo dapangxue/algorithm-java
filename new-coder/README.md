@@ -17,3 +17,5 @@
 21. [栈的压入、弹出序列](new-coder/SwordRefersToOffer/21.IsPopOrder.md)
 22. [从上往下打印二叉树](new-coder/SwordRefersToOffer/22.PrintFromTopToBottom.md)
 23. [二叉搜索树的后序遍历序列](new-coder/SwordRefersToOffer/23.VerifySquenceOfBST.md)
+24. [二叉树中和为某一值的路径](new-coder/SwordRefersToOffer/24.FindPath.md)
+25. [复杂链表的复制](new-coder/SwordRefersToOffer/25.Clone.md)
