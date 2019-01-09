@@ -21,4 +21,5 @@
 25. [复杂链表的复制](new-coder/SwordRefersToOffer/25.Clone.md)
 26. [字符串的排列](new-coder/SwordRefersToOffer/26.Convert.md)
 27. [数组中出现次数超过一半的数字](new-coder/SwordRefersToOffer/27.MoreThanHalfNum_Solution.md)
+28. [最小的K个数](new-coder/SwordRefersToOffer/28.GetLeastNumbers_Solution.md)
 37. [数字在排序数组中出现的次数](new-coder/SwordRefersToOffer/37.GetNumberOfK.md)
