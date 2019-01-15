@@ -25,4 +25,7 @@
 29. [FindGreatestSumOfSubArray](new-coder/SwordRefersToOffer/29.FindGreatestSumOfSubArray.md)
 30. [NumberOf1Between1AndN](new-coder/SwordRefersToOffer/30.NumberOf1Between1AndN.md)
 31. [把数组排成最小的数](new-coder/SwordRefersToOffer/31.PrintMinNumber.md)
+32. [丑数](new-coder/SwordRefersToOffer/32.GetUglyNumber_Solution.md)
+33. [第一个只出现一次的字符](new-coder/SwordRefersToOffer/33.FirstNotRepeatingChar.md)
+35. [两个链表的第一个公共结点](new-coder/SwordRefersToOffer/35.FindFirstCommonNode.md)
 37. [数字在排序数组中出现的次数](new-coder/SwordRefersToOffer/37.GetNumberOfK.md)
