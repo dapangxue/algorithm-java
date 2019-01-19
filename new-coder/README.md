@@ -30,3 +30,4 @@
 35. [两个链表的第一个公共结点](new-coder/SwordRefersToOffer/35.FindFirstCommonNode.md)
 36. [二叉树的深度](new-coder/SwordRefersToOffer/36.TreeDepth.md)
 37. [数字在排序数组中出现的次数](new-coder/SwordRefersToOffer/37.GetNumberOfK.md)
+38. [数组中的逆序对](new-coder/SwordRefersToOffer/38.InversePairs.md)
