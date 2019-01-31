@@ -32,3 +32,4 @@
 37. [数字在排序数组中出现的次数](new-coder/SwordRefersToOffer/37.GetNumberOfK.md)
 38. [数组中的逆序对](new-coder/SwordRefersToOffer/38.InversePairs.md)
 39. [平衡二叉树](new-coder/SwordRefersToOffer/39.IsBalanced_Solution.md)
+40. [数组中只出现一次的数字](new-coder/SwordRefersToOffer/40.FindNumsAppearOnce.md)
