@@ -33,3 +33,4 @@
 38. [数组中的逆序对](new-coder/SwordRefersToOffer/38.InversePairs.md)
 39. [平衡二叉树](new-coder/SwordRefersToOffer/39.IsBalanced_Solution.md)
 40. [数组中只出现一次的数字](new-coder/SwordRefersToOffer/40.FindNumsAppearOnce.md)
+41. [和为S的连续正数序列](new-coder/SwordRefersToOffer/41.FindContinuousSequence.md)
