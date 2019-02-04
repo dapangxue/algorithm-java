@@ -36,3 +36,4 @@
 41. [和为S的连续正数序列](new-coder/SwordRefersToOffer/41.FindContinuousSequence.md)
 42. [和为S的两个数字](new-coder/SwordRefersToOffer/42.FindNumbersWithSum.md)
 43. [左旋转字符串](new-coder/SwordRefersToOffer/43.LeftRotateString.md)
+44. [翻转单词顺序列](new-coder/SwordRefersToOffer/44.ReverseSentence.md)
