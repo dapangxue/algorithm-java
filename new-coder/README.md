@@ -37,3 +37,4 @@
 42. [和为S的两个数字](new-coder/SwordRefersToOffer/42.FindNumbersWithSum.md)
 43. [左旋转字符串](new-coder/SwordRefersToOffer/43.LeftRotateString.md)
 44. [翻转单词顺序列](new-coder/SwordRefersToOffer/44.ReverseSentence.md)
+45. [扑克牌顺子](new-coder/SwordRefersToOffer/45.isContinuous.md)
