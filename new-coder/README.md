@@ -43,3 +43,4 @@
 48. [不用加减乘除做加法](new-coder/SwordRefersToOffer/48.Add.md)
 49. [把字符串转换成整数](new-coder/SwordRefersToOffer/49.StrToInt.md)
 50. [数组中重复的数字](new-coder/SwordRefersToOffer/50.duplicate.md)
+51. [构建乘积数组](new-coder/SwordRefersToOffer/51.multiply.md)
