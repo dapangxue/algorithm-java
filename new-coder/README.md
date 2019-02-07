@@ -40,3 +40,4 @@
 45. [扑克牌顺子](new-coder/SwordRefersToOffer/45.isContinuous.md)
 46. [孩子们的游戏(圆圈中最后剩下的数)](new-coder/SwordRefersToOffer/46.LastRemainingSolution.md)
 47. [求1+2+3+...+n](new-coder/SwordRefersToOffer/47.SumSolution.md)
+48. [不用加减乘除做加法](new-coder/SwordRefersToOffer/48.Add.md)
