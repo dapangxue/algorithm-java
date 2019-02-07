@@ -42,3 +42,4 @@
 47. [求1+2+3+...+n](new-coder/SwordRefersToOffer/47.SumSolution.md)
 48. [不用加减乘除做加法](new-coder/SwordRefersToOffer/48.Add.md)
 49. [把字符串转换成整数](new-coder/SwordRefersToOffer/49.StrToInt.md)
+50. [数组中重复的数字](new-coder/SwordRefersToOffer/50.duplicate.md)
