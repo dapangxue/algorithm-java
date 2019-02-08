@@ -44,3 +44,8 @@
 49. [把字符串转换成整数](new-coder/SwordRefersToOffer/49.StrToInt.md)
 50. [数组中重复的数字](new-coder/SwordRefersToOffer/50.duplicate.md)
 51. [构建乘积数组](new-coder/SwordRefersToOffer/51.multiply.md)
+52. [正则表达式匹配](new-coder/SwordRefersToOffer/52.match.md)
+53. [表示数值的字符串](new-coder/SwordRefersToOffer/53.isNumeric.md)
+54. [字符流中第一个不重复的字符](new-coder/SwordRefersToOffer/54.FirstAppearingOnce.md)
+55. [链表中环的入口结点](new-coder/SwordRefersToOffer/55.EntryNodeOfLoop.md)
+56. [删除链表中重复的结点](new-coder/SwordRefersToOffer/56.deleteDuplication.md)
