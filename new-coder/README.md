@@ -52,3 +52,4 @@
 57. [二叉树的下一个结点](new-coder/SwordRefersToOffer/57.GetNext.md)
 58. [对称的二叉树](new-coder/SwordRefersToOffer/58.isSymmetrical.md)
 59. [按之字形顺序打印二叉树](new-coder/SwordRefersToOffer/59.Print.md)
+60. [把二叉树打印成多行](new-coder/SwordRefersToOffer/60.Print1.md)
