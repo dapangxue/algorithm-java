@@ -49,3 +49,4 @@
 54. [字符流中第一个不重复的字符](new-coder/SwordRefersToOffer/54.FirstAppearingOnce.md)
 55. [链表中环的入口结点](new-coder/SwordRefersToOffer/55.EntryNodeOfLoop.md)
 56. [删除链表中重复的结点](new-coder/SwordRefersToOffer/56.deleteDuplication.md)
+57. [二叉树的下一个结点](new-coder/SwordRefersToOffer/57.GetNext.md)
