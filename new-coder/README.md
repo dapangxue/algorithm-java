@@ -56,3 +56,5 @@
 61. [序列化二叉树](new-coder/SwordRefersToOffer/61.SerializeDeserialize.md)
 62. [二叉搜索树的第k个结点](new-coder/SwordRefersToOffer/62.KthNode.md)
 63. [数据流中的中位数](new-coder/SwordRefersToOffer/63.GetMid.md)
+65. [矩阵中的路径](new-coder/SwordRefersToOffer/65.hasPath.md)
+66. [机器人的运动范围](new-coder/SwordRefersToOffer/66.movingCount.md)
