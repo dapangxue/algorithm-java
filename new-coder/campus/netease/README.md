@@ -10,3 +10,5 @@
 |题目|来源|
 |------|------|
 |[矩阵重叠](new-coder\campus\netease\2018\RectangularOverlap.md)|[网易2019实习生招聘编程题集合](https://www.nowcoder.com/test/9763997/summary)|
+|[牛牛的闹钟](new-coder\campus\netease\2018\NiuniuAlarmClock.md)|[网易2019实习生招聘编程题集合](https://www.nowcoder.com/test/9763997/summary)|
+|[牛牛的背包问题](new-coder\campus\netease\2018\NiuniuBackpackProblem.md)|[网易2019实习生招聘编程题集合](https://www.nowcoder.com/test/9763997/summary)|
