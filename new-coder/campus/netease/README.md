@@ -18,4 +18,3 @@
 |题目|来源|
 |------|------|
 |大富翁游戏|[美团点评2017秋招笔试编程题](https://www.nowcoder.com/question/next?pid=5583018&qid=105232&tid=21560304)|
-|拼凑钱币|[美团点评2017秋招笔试编程题](https://www.nowcoder.com/questionTerminal/178b912722ac42a2865057a66d4e7de2)|
