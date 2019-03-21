@@ -1,31 +1,36 @@
 # Combination Sum II
 ## 示例代码
-``` java
+``` Java
 class Solution {
     public List<List<Integer>> combinationSum2(int[] candidates, int target) {
-        Arrays.sort(candidates);
-        List<List<Integer>> res = new ArrayList<>();
-        if (candidates.length == 0 || target < candidates[0]) {
-            return res;
+        List<List<Integer>> result = new ArrayList<>();
+        if (candidates == null) {
+            return result;
         }
-        recursive(candidates, target, 0, new ArrayList(), res);
-        return res;
+        // 1. 首先将数组排序
+        Arrays.sort(candidates);
+        helper(result, new ArrayList<>(), 0, target, candidates);
+        return result;
     }
 
-    private void recursive(int[] candidates, int target, int index, List<Integer> list, List<List<Integer>> res) {
-        if (target == 0) {
-            res.add(new ArrayList(list));
+    private void helper(List<List<Integer>> result, List<Integer> list, int k, int target, int[] candidates) {
+        if (0 == target) {
+            // Collections.sort(list);
+            result.add(new ArrayList<>(list));
             return;
-        } else {
-            for (int i = index; i < candidates.length; i++) {
-                if (i > index && candidates[i] == candidates[i-1]) continue;
-                if (target < candidates[i]) {
-                    return;
-                }
+        }
 
+        if (0 < target) {
+            for (int i = k, length = candidates.length; i < length; i++) {
+                // 防止出现重复项，在这一次for循环出现过，向下递归也会出现一次，所以只用一次就行
+                if (i > k && candidates[i] == candidates[i-1]) continue;
+                // 小优化，如果target小于当前candidates[i]，则表示以后的candidates[i ... length - 1]都不会满足条件，因为数组是递增的
+                if (candidates[i] > target) {
+                    continue;
+                }
                 list.add(candidates[i]);
-                recursive(candidates, target-candidates[i], i+1, list, res);
-                list.remove(list.size()-1);
+                helper(result, list, i + 1, target - candidates[i], candidates);
+                list.remove(list.size() - 1);
             }
         }
     }
