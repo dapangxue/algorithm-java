@@ -31,6 +31,36 @@ class Solution {
         return dummy.next;
     }
 }
+
+class Solution {
+    public ListNode swapPairs(ListNode head) {
+        if (head == null) {
+            return null;
+        }
+        // 简历一个虚拟结点，用来返回答案
+        ListNode dummy = new ListNode(-1);
+        // tail为修改的最后一个结点
+        ListNode tail = dummy;
+        tail.next = head;
+        // 当结点为偶数的时候，定义两个结点，相互交换
+        ListNode node1 = head;
+        ListNode node2 = head.next;
+        while (node1 != null && node2 != null) {
+            tail.next = node2;
+            node1.next = node2.next;
+            node2.next = node1;
+            // 以下三步，node2和node1结点互换
+            ListNode temp = node1;
+            node1 = node2;
+            node2 = temp;
+            tail = node2;
+            node1 = node1.next.next;
+            if (node2.next != null)
+                node2 = node2.next.next;
+        }
+        return dummy.next;
+    }
+}
 ```
 ### 方法二
 采用递归的思想
