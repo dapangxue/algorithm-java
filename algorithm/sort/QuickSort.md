@@ -63,7 +63,7 @@ public class QuickSort {
     }
 
     public static void main(String[] args) {
-        Comparable[] a = new Comparable[]{3, 5, 7, 1, 5};
+        Comparable[] a = new Comparable[]{3, 5, 3, 1, 8, 9, 2, 2, 2, 1, 7, 1, 5};
         QuickSort.sort(a);
         System.out.println(Arrays.toString(a));
     }
