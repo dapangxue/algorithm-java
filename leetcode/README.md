@@ -1,7 +1,7 @@
 ## leetcode题目
-1. [Two Sum](https://github.com/iswuxue/leetcode-java/blob/master/1-100/TwoSum.md)
-2. [Add Two Numbers](1-100/AddTwoNumbers.md)
-3. [Longest Substring Without Repeating Characters](1-100/LongestSubstringWithoutRepeatingCharacters.md)
+1. [Two Sum](leetcode\1-100\TwoSum.md)
+2. [Add Two Numbers](leetcode\1-100\AddTwoNumbers.md)
+3. [Longest Substring Without Repeating Characters](leetcode\1-100\LongestSubstringWithoutRepeatingCharacters.md)
 5. [Longest Palindromic Substring](1-100/LongestPalindromicSubstring.md)
 6. [ZigZag Conversion](1-100/ZigZagConversion.md)
 7. [Reverse Integer](1-100/ReverseInteger.md)
