@@ -36,6 +36,7 @@
 38. [Combination Sum II](https://github.com/iswuxue/leetcode-java/blob/master/1-100/CombinationSumII.md)
 43. [Multiply Strings](https://github.com/iswuxue/leetcode-java/blob/master/1-100/MultiplyStrings.md)
 46. [Permutations](https://github.com/iswuxue/leetcode-java/blob/master/1-100/Permutations.md)
+47. [permuteUnique](leetcode\1-100\47.PermuteUnique.md)
 49. [Group Anagrams](https://github.com/iswuxue/leetcode-java/blob/master/1-100/GroupAnagrams.md)
 50. [Pow(x,n)](https://github.com/iswuxue/leetcode-java/blob/master/1-100/Pow(x%2C%20n).md)
 53. [Maximum Subarray](https://github.com/iswuxue/leetcode-java/blob/master/1-100/Maximumubarray.md)
