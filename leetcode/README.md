@@ -30,6 +30,7 @@
 29. [Divide Two Integers](https://github.com/iswuxue/leetcode-java/blob/master/1-100/DivideTwoIntegers.md)
 31. [Next Permutation](https://github.com/iswuxue/leetcode-java/blob/master/1-100/NextPermutation.md)
 33. [Search in Rotated Sorted Array](https://github.com/iswuxue/leetcode-java/blob/master/1-100/SearchinRotatedSortedArray.md)
+34. [searchRange](leetcode\1-100\34.searchRange.md)
 35. [Search Insert Position](https://github.com/iswuxue/leetcode-java/blob/master/1-100/SearchInsertPosition.md)
 36. [Valid Sudoku](https://github.com/iswuxue/leetcode-java/blob/master/1-100/ValidSudoku.md)
 37. [Combination Sum](https://github.com/iswuxue/leetcode-java/blob/master/1-100/CombinationSum.md)
