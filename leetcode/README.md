@@ -128,6 +128,7 @@ Ways](https://github.com/iswuxue/leetcode-java/blob/master/1-100/91.DecodeWays.m
 172. [172. Factorial Trailing Zeroes](101-200/172.FactorialTrailingZeroes.md)
 176. [176. Second Highest Salary](101-200/176.SecondHighestSalary.md)
 179. [179. Largest Number](101-200/179.LargestNumber.md)
+182. [182. 查找重复的电子邮箱](leetcode/101-200/182.SQL_SearchRepeatEmail.md)
 200. [200.岛屿数量](leetcode\101-200\200.NumIslands.md)
 ### 201 - 300
 201. [201. Bitwise AND of Numbers Range](201-300/201.BitwiseANDofNumbersRange.md)
