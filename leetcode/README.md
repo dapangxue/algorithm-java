@@ -147,7 +147,11 @@ Ways](https://github.com/iswuxue/leetcode-java/blob/master/1-100/91.DecodeWays.m
 217. [217. Contains Duplicate](201-300/217.ContainsDuplicate.md)
 221. [221. 最大正方形](leetcode/201-300/221.maximalSquare.md)
 222. [222. 完全二叉树的节点个数](leetcode/201-300/222.countNodes.md)
+<<<<<<< Updated upstream
 234. [234. 回文链表](leetcode\201-300\234.isPalindrome.md)
+=======
+300. [300. 最长上升子序列](leetcode/201-300/300.LengthOfLIS.md)
+>>>>>>> Stashed changes
 ### 301 - 400
 303. [303. Range Sum Query - Immutable](300-400/303.RangeSumQuery-Immutable.md)
 304. [304. Range Sum Query 2D - Immutable](leetcode\300-400/304.RangeSumQuery2D-Immutable.md)
