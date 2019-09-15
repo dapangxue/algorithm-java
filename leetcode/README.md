@@ -177,6 +177,7 @@ Ways](https://github.com/iswuxue/leetcode-java/blob/master/1-100/91.DecodeWays.m
 419. [419. Battleships in a Board](401-500/419.BattleshipsinaBoard.md)
 423. [423. Reconstruct Original Digits from English](401-500/423.ReconstructOriginalDigitsfromEnglish.md)
 ### 501 - 600
+516. [516. 最长回文子序列](leetcode\501-600\516.longestPalindromeSubseq.md)
 543. [543. 二叉树的直径](leetcode\501-600\543.diameterOfBinaryTree.md)
 ### 701 - 800
 784. [字母大小写全排列](leetcode\701-800\784.letterCasePermutation.md)
