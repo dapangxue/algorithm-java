@@ -114,6 +114,7 @@ Ways](https://github.com/iswuxue/leetcode-java/blob/master/1-100/91.DecodeWays.m
 142. [142. Linked List Cycle II](101-200/142.LinkedListCycleII.md)
 143. [Reorder List](101-200/143.ReorderList.md)
 144. [144. Binary Tree Preorder Traversal](101-200/144.BinaryTreePreorderTraversal.md)
+146. [146. LRU缓存机制](leetcode\101-200\146.LRUCache.md)
 147. [Insertion Sort List](101-200/147.InsertionSortList.md)
 148. [148. Sort List](101-200/148.SortList.md)
 151. [151. Reverse Words in a String](101-200/151.ReverseWordsinaString.md)
