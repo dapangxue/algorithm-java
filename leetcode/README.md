@@ -117,6 +117,7 @@ Ways](https://github.com/iswuxue/leetcode-java/blob/master/1-100/91.DecodeWays.m
 146. [146. LRU缓存机制](leetcode\101-200\146.LRUCache.md)
 147. [Insertion Sort List](101-200/147.InsertionSortList.md)
 148. [148. Sort List](101-200/148.SortList.md)
+149. [149. 直线上最多的点数](leetcode\101-200\149.maxPoints.md)
 151. [151. Reverse Words in a String](101-200/151.ReverseWordsinaString.md)
 152. [152. Maximum Product Subarray](101-200/152.MaximumProductSubarray.md)
 153. [153. Find Minimum in Rotated Sorted Array](101-200/153.FindMinimuminRotatedSortedArray.md)
