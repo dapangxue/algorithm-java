@@ -160,6 +160,7 @@ Ways](https://github.com/iswuxue/leetcode-java/blob/master/1-100/91.DecodeWays.m
 309. [309. Best Time to Buy and Sell Stock with Cooldown](300-400/309.BestTimetoBuyandSellStockwithCooldown.md)
 318. [318. Maximum Product of Word Lengths](300-400/318.MaximumProductofWordLengths.md)
 319. [319. Bulb Switcher](300-400/319.BulbSwitcher.md)
+338. [338. 比特位计数](leetcode\300-400\338.CountBits.md)
 372. [372. Super Pow](300-400/372.SuperPow.md)
 376. [376. 摆动序列](leetcode/300-400/376.wiggleMaxLength.md)
 386. [Lexicographical Numbers](300-400/LexicographicalNumbers.md)
